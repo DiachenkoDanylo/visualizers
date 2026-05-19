@@ -1,0 +1,111 @@
+# Build directories
+build/
+bin/
+obj/
+out/
+dist/
+Debug/
+Release/
+
+# Compiled objects and binaries
+*.o
+*.obj
+*.so
+*.a
+*.lib
+*.dll
+*.dylib
+*.exe
+*.out
+*.elf
+*.hex
+*.map
+
+# Dependency files
+*.d
+
+# Precompiled headers
+*.gch
+*.pch
+
+# Coverage / profiling
+*.gcda
+*.gcno
+*.gcov
+*.prof
+*.profraw
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+*.swo
+*~
+
+# IDE / Editor
+.vscode/
+.idea/
+*.code-workspace
+
+# CLion
+cmake-build-*/
+
+# Eclipse / STM32CubeIDE
+.settings/
+.project
+.cproject
+.metadata/
+
+# Keil
+*.uvoptx
+*.uvprojx
+*.axf
+*.htm
+*.dep
+
+# IAR Embedded Workbench
+Debug/
+settings/
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+compile_commands.json
+
+# Autotools
+autom4te.cache/
+aclocal.m4
+configure
+config.status
+config.log
+Makefile.in
+
+# Generated files
+*.i
+*.s
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+
+# Static analysis
+.cache/
+.clangd/
+
+# Testing
+test-results/
+coverage/
+
+# Archives
+*.zip
+*.tar
+*.gz
+*.7z
