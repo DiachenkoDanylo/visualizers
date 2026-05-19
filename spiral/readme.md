@@ -5,3 +5,5 @@ build with
 
 execute 
  $ ./spiral 
+
+ <img src="spiral_screenshot.png" alt="">
