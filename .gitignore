@@ -49,6 +49,7 @@ Release/
 .vscode/
 .idea/
 *.code-workspace
+.vim
 
 # CLion
 cmake-build-*/
